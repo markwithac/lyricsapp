@@ -1,0 +1,16 @@
+.header {
+    margin: 0 auto;
+    padding: 25px 0 25px; 
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.lyrics {
+    text-align: center;
+}
+
+.button {
+    text-transform: uppercase;
+    text-emphasis: weight;
+}
+
